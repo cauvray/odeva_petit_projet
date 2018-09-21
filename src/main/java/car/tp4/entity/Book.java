@@ -18,10 +18,10 @@ public class Book {
 	private int id;
 	private String author;
 	private String title;
-	private int year;
+	private int year
 	private int stock;
 
-	protected Book() {
+	protected Bok() {
 	}
 
 	/**
